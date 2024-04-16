@@ -1,9 +1,12 @@
 site_name: "Submarinos: uma cartilha"
 site_author: Luiz C. P. Azevedo
 
+repo_url: https://github.com/jurandysoares/submarinos
+edit_uri: edit/main/docs/
+
 theme:
-  name: material
-  language: pt
+  name: readthedocs
+  # language: pt
 
 nav:
   - index.md
