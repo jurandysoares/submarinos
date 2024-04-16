@@ -1,0 +1,21 @@
+site_name: "Submarinos: uma cartilha"
+site_author: Luiz C. P. Azevedo
+
+theme:
+  name: material
+  language: pt
+
+nav:
+  - index.md
+  - introducao.md
+  - para-que-serve.md
+  - caracteristicas.md
+  - flutuabilidade.md  
+  - mergulhar.md  
+  - comissionamento.md
+  - atracacao.md
+  
+  
+  
+  
+  
